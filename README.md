@@ -17,7 +17,7 @@ clientes_recorrentes: informações consolidadas de clientes frequentes
 Essas tabelas foram modeladas em um modelo snowflake, onde a tabela pedidos atua como tabela fato, conectando-se às dimensões de clientes, produtos e a 
 tabela fornecedores sendo independente da tabela pedido, sendo relacionada a partir da tabela produtos.
 
-<img width="940" height="422" alt="Relacionamento_Table" src="https://github.com/user-attachments/assets/be5072df-683e-4e90-991c-204840ebc73c" />
+<img width="940" height="422" alt="Relacionamento_Table" src="https://github.com/user-attachments/assets/94fb9459-0ed8-4faa-b0fe-be1c70d01ec5" />
 
 Apresentação
 
@@ -37,7 +37,7 @@ Identificação de clientes com maior impacto na receita
 
 Todas as visualizações são interligadas por filtros, possibilitando análises cruzadas em tempo real.
 
-<img width="1028" height="575" alt="Dashboard" src="https://github.com/user-attachments/assets/b7afa449-047b-4c2b-b2a9-7b277bc62ca3" />
+<img width="1028" height="575" alt="Dashboard" src="https://github.com/user-attachments/assets/84d9c336-9f6b-40f6-9f0b-d74f5bd3b836" />
 
 Apresentação Analítica
 
